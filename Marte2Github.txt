@@ -1,0 +1,14 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: 9CAE-A8D0
+
+ Directorio de C:\Users\gaspa\GSP_DAMB\MyFisrtLocalRepo\RemoteRepo\DamB
+
+08/11/2022  18:36    <DIR>          .
+08/11/2022  18:00    <DIR>          ..
+08/11/2022  18:12                17 Gabriel.Md
+08/11/2022  18:36                 0 Marte2Github.txt
+08/11/2022  18:11               100 Martes
+08/11/2022  18:00                32 notes.md
+08/11/2022  18:00                31 README.md
+               5 archivos            180 bytes
+               2 dirs  224.297.836.544 bytes libres
